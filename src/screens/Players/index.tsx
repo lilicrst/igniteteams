@@ -23,7 +23,6 @@ type RouteParams = {
   group: string;
 }
 
-
 export function Players() {
 
   const [newPlayerName, setNewPlayerName] = useState('');
@@ -35,7 +34,6 @@ export function Players() {
   const { group } = route.params as RouteParams;
 
   async function handleAddPlayer(){
-    console.log(newPlayerName);
     if(newPlayerName.trim().length === 0) {
       return Alert.alert('Nova pessoa', 'Informe o nome da pessoa.');
     }
@@ -45,8 +43,7 @@ export function Players() {
       team,
     }
 
-    try {
-      console.log("entrou na função de adicionar...")
+    try {      
       await PlayerAddByGroup(newPlayer, group);
       setNewPlayerName('');
       fetchPlayersByTeam();      
