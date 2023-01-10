@@ -4,7 +4,7 @@
 
 <h2 align="center">Ignite Teams</h2>
 
-Application made in React Native using concepts like Styled Components, the Stak Navigator, and Local Storage.
+Application in React Native using concepts like Styled Components, Stak Navigator, and Local Storage.
 
 ## Layout and functions
 
@@ -13,10 +13,10 @@ You can find the application UI design here: https://www.figma.com/file/swE7k35O
 <p align="center">
   <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/groups_screen.jpg" width="200" />
   <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/newgroup_screen.jpg" width="200" />
-  <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/player_screen.jpg
-" width="200" />
+  <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/player_screen.jpg" width="200" />
 </p>
 
+The functionalities are: add and remove classes, add and remove people in the class according to the team.
 
 <p align="center">
   <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/player_screen1.jpg" width="200" />
