@@ -16,7 +16,7 @@ You can find the application UI design here: https://www.figma.com/file/swE7k35O
   <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/player_screen.jpg" width="200" />
 </p>
 
-The functionalities are: add and remove classes, add and remove people in the class according to the team.
+The functionalities are: add and remove classes, add and remove people in the class according to the team. You can see them working in the screenshots of the application.
 
 <p align="center">
   <img src="https://github.com/lilicrst/igniteteams/blob/master/src/readme/player_screen1.jpg" width="200" />
